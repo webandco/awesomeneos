@@ -1,4 +1,4 @@
-# awesomeneos
+# AwesomeNeos
 AwesomeNeos is a Neos CMS package for pre production.
 
 ## Available Soon
